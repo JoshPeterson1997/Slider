@@ -1,4 +1,4 @@
-# Front-End 'Noob' Starter
+# Slider
 
 **Try the CodeTour 🗺️.** [More info here.](https://github.com/microsoft/codetour#starting-tours)
 
@@ -6,7 +6,24 @@ Use of this starter template assumes that you have a 'complete dev environment' 
 
 ---
 
-## What's Included
+## Table of Contents
+
+- [Overview]
+- [Built_With]
+- [Features]
+- [Contact]
+- [Acknowledgements]
+
+## Overview
+
+Basic repository to show how a slider feature works in vs code.
+
+## Built With
+
+-[![Prettier]]
+-[![Code_Style]] -[Stylelint] -['Husky'] -[Kite]
+
+## Features
 
 - [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 - [![Code Style](https://badgen.net/badge/code%20style/airbnb/ff5a5f?icon=airbnb)](https://github.com/airbnb/javascript). I have adjusted this slightly as per [this `commit`](https://github.com/manavm1990/node-starter/commit/ff1ed419d3ed411683b404b1cc6e221c859b0d33).
@@ -15,6 +32,14 @@ Use of this starter template assumes that you have a 'complete dev environment' 
 - Various VS Code 'settings' and 'extensions.' **Look in the bottom right when you open this up in VS Code to install them.**
 - [Kite 🪁](https://www.kite.com/javascript/) is also included. I personally recommend it, but it's certainly not compulsory to set this up.
 - Probably some other stuff I'm 4getting about for now 🤷🏽‍♂️
+
+## Contact
+
+github.com/JoshPeterson1997
+
+## Acknowledgements
+
+No acknowledgements as of now.
 
 ## How To Use
 
